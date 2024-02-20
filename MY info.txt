@@ -1,0 +1,3 @@
+Name - Parkshit sharma
+React Application - Watch Now
+Vercel deployment link - https://watch-5wl13u4ft-parkshit-sharmas-projects.vercel.app/
